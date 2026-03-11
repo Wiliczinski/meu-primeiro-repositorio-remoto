@@ -3,3 +3,5 @@ Meu primeiro arquivo usando git
 Adicionando mais conteúdo para teste
 
 Adicionando nova linha para teste do merge
+
+Modificação para o comando git pull
